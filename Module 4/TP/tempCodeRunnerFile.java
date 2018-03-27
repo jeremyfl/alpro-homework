@@ -1,0 +1,1 @@
+voteJakarta.size() + voteMeikarta.size()
